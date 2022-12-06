@@ -1,2 +1,2 @@
 # rsschool-cv
-## Contacts
+https://nivarnas.github.io/rsschool-cv/cv
