@@ -4,11 +4,11 @@ body {
     color:beige;
     margin-left: auto;
     margin-right: auto;
-    width: 1280px;
+    width: 960px;
 }
 
 header {
-    height: 6em;
+    height: 3em;
     margin-left: auto;
     margin-right: auto;
     padding-top: 30px;
@@ -27,13 +27,25 @@ header {
     color: beige;
     font-size: large;
     margin: 20px;
+    right: 0;
+    position: relative;
+    left: 20%;
 }
 
 h1 {
-    margin: 10px;
+    margin: 10px 0px;
 }
 
 .icon {
     width: 1em;
 }
 
+.CV-photo {
+    float: right;
+    bottom: 2em;
+    width: 400px;
+}
+
+article {
+    line-height: 1.5em;
+}
