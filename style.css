@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(25,25,25);
+    font-family: sans-serif;
+    color:beige;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+header {
+    height: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.white-block {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+    text-align: center;
+}
+
+.header-block {
+    color: beige;
+    font-size: large;
+    margin: 20px;
+    right: 0;
+    position: relative;
+    left: 20%;
+}
+
+h1 {
+    margin: 10px 0px;
+}
+
+.icon {
+    width: 1em;
+}
+
+.CV-photo {
+    float: right;
+    bottom: 2em;
+    width: 400px;
+}
+
+article {
+    line-height: 1.5em;
+}
