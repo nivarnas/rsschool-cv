@@ -1,1 +1,2 @@
-Link: https://nivarnas.github.io/rsschool-cv/cv
+Link: https://nivarnas.github.io/rsschool-cv/
+
