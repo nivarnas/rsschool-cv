@@ -66,6 +66,7 @@ footer {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
+  vertical-align: bottom;
 }
 
 .footer_logo {
@@ -126,6 +127,10 @@ p {
 .project_link {
   color: rgb(219, 219, 219);
   text-decoration: none;
+}
+
+.footer_cop {
+  padding: 3rem 2rem 0;
 }
 
 
