@@ -133,4 +133,13 @@ p {
   padding: 3rem 2rem 0;
 }
 
+.header_nav {
+  list-style: noone;
+  display: flex;
+  justify-content: end;
+}
+
+.nav_block {
+  list-style: none;
+}
 
